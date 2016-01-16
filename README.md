@@ -2,7 +2,7 @@
 
 Run Dropbox inside Docker. Fully working with local host folder mount or inter-container linking (via `--volumes-from`).
 
-This repository provides the [janeczku/dropbox](https://registry.hub.docker.com/u/janeczku/dropbox/) image.
+This is a fork for personal usage of the [janeczku/docker-dropbox](https://github.com/janeczku/docker-dropbox) image.
 
 ## Usage examples
 
